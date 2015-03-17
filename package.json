@@ -1,6 +1,6 @@
 {
   "name": "sad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "X-Clacks-Overhead header plugin for Hapi.js apps",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,6 @@
     "codeclimate-test-reporter": "0.0.4",
     "hapi": "^8.4.0",
     "istanbul": "^0.3.8",
-    "tap-spec": "^2.2.2",
     "tape": "^3.5.0"
   },
   "peerDependencies": {

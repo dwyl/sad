@@ -1,5 +1,5 @@
 var Hapi    = require('hapi');
-var port    = process.env.PORT || 1337; // define PORT env var or use 1337
+var port    = process.env.PORT || 8000; // define PORT env var or use 3000
 var server  = new Hapi.Server();
 
 server.connection({ port: port });
