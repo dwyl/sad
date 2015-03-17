@@ -1,6 +1,6 @@
 {
   "name": "sad",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "X-Clacks-Overhead header plugin for Hapi.js apps",
   "main": "index.js",
   "scripts": {
