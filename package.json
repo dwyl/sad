@@ -4,6 +4,7 @@
   "description": "X-Clacks-Overhead header plugin for Hapi.js apps",
   "main": "index.js",
   "scripts": {
+    "codeclimate": "CODECLIMATE_REPO_TOKEN=001fcc4016fb1e611e80c793958800457920bb59b126a2cf1b291e57c70177a5 ./node_modules/codeclimate-test-reporter/bin/codeclimate.js < ./coverage/lcov.info",
     "coverage": "./node_modules/.bin/istanbul cover ./node_modules/tape/bin/tape ./test/*.js | node_modules/tap-spec/bin/cmd.js && ./node_modules/.bin/istanbul check-coverage --statements 100 --functions 100 --lines 100 --branches 100",
     "test": "node ./node_modules/tape/bin/tape ./test/*.js",
     "start": "node ./example/server.js"
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/pandajs/sad",
   "devDependencies": {
+    "codeclimate-test-reporter": "0.0.4",
     "hapi": "^8.4.0",
     "istanbul": "^0.3.8",
     "tap-spec": "^2.2.2",
