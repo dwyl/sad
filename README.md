@@ -13,7 +13,8 @@ A Hapi.js Plugin to add
 ## Why?
 
 On Thursday 12th March 2015 [***Terry Pratchett***](http://en.wikipedia.org/wiki/Terry_Pratchett)
-passed away. This little Hapi.js Plugin keeps him ***alive*** "***in the code***".
+passed away.  
+This little Hapi.js Plugin keeps him ***alive*** "***in the code***".
 
 > “We keep that name moving in the Overhead,” he said, and it seemed to  
 > Princess that the wind in the shutter arrays above her blew more forlornly,  
