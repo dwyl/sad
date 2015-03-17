@@ -3,7 +3,8 @@
 A Hapi.js Plugin to add
 **X-Clacks-Overhead**: **GNU Terry Pratchett** *header* to your projects.
 
-[![Build Status](https://travis-ci.org/pandajs/sad.png?branch=master)](https://travis-ci.org/pandajs/sad) [![Code Climate](https://codeclimate.com/github/pandajs/sad.png)](https://codeclimate.com/github/pandajs/sad)
+<!-- [![Build Status](https://travis-ci.org/pandajs/sad.png?branch=master)](https://travis-ci.org/pandajs/sad) travis is not playing nice... -->
+[![Code Climate](https://codeclimate.com/github/pandajs/sad.png)](https://codeclimate.com/github/pandajs/sad)
 [![Test Coverage](https://codeclimate.com/github/pandajs/sad/badges/coverage.svg)](https://codeclimate.com/github/pandajs/sad) [![Dependencies](https://david-dm.org/pandajs/sad.png?theme=shields.io)](https://david-dm.org/pandajs/sad)
 [![Node version](https://img.shields.io/node/v/atimer.svg?style=flat)](http://nodejs.org/download/)
 [![HAPI 8.2](http://img.shields.io/badge/hapi-8.4-brightgreen.svg)](http://hapijs.com)
@@ -25,13 +26,13 @@ This little Hapi.js Plugin keeps him ***alive*** "***in the code***".
 > ‘*A man’s **not dead** while his **name is still spoken**’?*”
 
 Even if you are not a Fan of Terry's work,
-I *highly* recommend watching the [**Documentary**](https://www.google.co.uk/webhp?q=terry+pratchett+documentary&tbm=vid)
+I ***highly recommend*** watching the [**Documentary**](https://www.google.co.uk/webhp?q=terry+pratchett+documentary&tbm=vid)
 
 
 ## What?
 
 This node module (Hapi.js plugin) simply adds the
-"[**GNU Terry Pratchett**](http://np.reddit.com/r/discworld/comments/2yt9j6/gnu_terry_pratchett/cpcvz46)" header
+"[**GNU Terry Pratchett**](http://np.reddit.com/r/discworld/comments/2yt9j6/gnu_terry_pratchett/cpcvz46)" header  
 to all out-going http replies in you Hapi.js Web App/Site.
 
 ## Usage
