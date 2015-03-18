@@ -3,7 +3,7 @@
 A Hapi.js Plugin to add
 **X-Clacks-Overhead**: **GNU Terry Pratchett** *header* to your projects.
 
-<!-- [![Build Status](https://travis-ci.org/pandajs/sad.png?branch=master)](https://travis-ci.org/pandajs/sad) travis is not playing nice... -->
+[![Build Status](https://travis-ci.org/pandajs/sad.png?branch=master)](https://travis-ci.org/pandajs/sad) 
 [![Code Climate](https://codeclimate.com/github/pandajs/sad.png)](https://codeclimate.com/github/pandajs/sad)
 [![Test Coverage](https://codeclimate.com/github/pandajs/sad/badges/coverage.svg)](https://codeclimate.com/github/pandajs/sad) [![Dependencies](https://david-dm.org/pandajs/sad.png?theme=shields.io)](https://david-dm.org/pandajs/sad)
 [![Node version](https://img.shields.io/node/v/atimer.svg?style=flat)](http://nodejs.org/download/)
